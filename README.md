@@ -30,7 +30,7 @@ Hey there! I'm currently diving into the world of software engineering at Victor
 
 [![Alexander Heffernan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexanderheffernan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-#
+
 <details>
- <summary><h3>Alexander Heffernan's Summary</h3></summary>
+ <summary>Alexander Heffernan's Summary</summary>
    Pursuing a Bachelor of Engineering in Software Engineering at Victoria University of Wellington, I am a proactive learner with a strong passion for technology and design. Over nearly 2 years as a website administrator in a communications team, I've honed my skills in web content management, collaboration, and design aesthetics. My dedication to continuous growth is evident through my academic pursuits and professional endeavors, emphasizing not only engineering principles but also a keen eye for innovative design. I bring a comprehensive understanding of both technical and design aspects, coupled with practical communication skills, aiming to contribute to technology-driven solutions with a fresh and creative perspective.
