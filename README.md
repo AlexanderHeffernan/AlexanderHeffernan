@@ -22,15 +22,12 @@ Hey there! I'm currently diving into the world of software engineering at Victor
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" />
+          
 <br />
 
 <hr>
 
-### 📊 Stats
-
-[![Alexander Heffernan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexanderheffernan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <details>
  <summary>Alexander Heffernan's Summary</summary>
-   Pursuing a Bachelor of Engineering in Software Engineering at Victoria University of Wellington, I am a proactive learner with a strong passion for technology and design. Over nearly 2 years as a website administrator in a communications team, I've honed my skills in web content management, collaboration, and design aesthetics. My dedication to continuous growth is evident through my academic pursuits and professional endeavors, emphasizing not only engineering principles but also a keen eye for innovative design. I bring a comprehensive understanding of both technical and design aspects, coupled with practical communication skills, aiming to contribute to technology-driven solutions with a fresh and creative perspective.
+   Alexander Heffernan is a Website Developer/Designer at HomeStaged and a student at Victoria University of Wellington (VUW). He previously worked at the External Reporting Board (XRB) for over 3 years as Website Administrator. Currently in his penultimate year of a Bachelor of Engineering with Honours (BE(Hons)) degree majoring in Software Engineering and specialising in Artificial Intelligence. At the end of 2022, he was awarded Dux of St Patrick's College Silverstream for his academic achievement.
