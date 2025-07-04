@@ -1,8 +1,8 @@
 # 👨‍💻 Alexander Heffernan
 
-**`Software Engineer (Developer/Entrepreneur/Student)`**
+**`Software Engineer (Developer/Student)`**
 
-Hey there! I'm currently diving into the world of software engineering at Victoria University of Wellington, working towards a Bachelor's degree. With almost two years of hands-on experience as a website administrator in a communications team, I've become a tech enthusiast with a knack for web content management and collaboration. Currently working as the Website Designer for HomeStagedIT, an upcoming software solution being developed by HomeStaged in Wellington, New Zealand.
+I'm a passionate Software Engineering student at Victoria University of Wellington, pursuing a Bachelor of Engineering (Honours) specializing in Artificial Intelligence. As a Website Developer/Designer at HomeStagedIT in Wellington, New Zealand, I build and enhance a web platform using .NET, HTML, CSS, JavaScript, and C#, leveraging tools like Azure DevOps for seamless collaboration. With a strong foundation in front-end development and growing back-end expertise, I’m driven to create user-focused solutions and explore innovative technologies. Previously, I honed my communication and technical skills as a Website Administrator at the External Reporting Board. I’m eager to tackle new challenges, contribute to impactful projects, and grow through opportunities like summer internships.
 
 ---
 
@@ -24,11 +24,3 @@ Hey there! I'm currently diving into the world of software engineering at Victor
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" />
-          
-<br />
-
-<hr>
-
-<details>
- <summary>Alexander Heffernan's Summary</summary>
-   Alexander Heffernan is a Website Developer/Designer at HomeStaged and a student at Victoria University of Wellington (VUW). He previously worked at the External Reporting Board (XRB) for over 3 years as Website Administrator. Currently in his penultimate year of a Bachelor of Engineering with Honours (BE(Hons)) degree majoring in Software Engineering and specialising in Artificial Intelligence. At the end of 2022, he was awarded Dux of St Patrick's College Silverstream for his academic achievement.
