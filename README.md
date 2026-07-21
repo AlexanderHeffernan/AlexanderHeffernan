@@ -10,19 +10,6 @@ I care about shipping reliable software people actually use — clean architectu
 
 ---
 
-### Currently
-
-- **HomeStagedIT** — Software Developer (contract). Modernising a production operations platform for home-staging companies: full-stack features, UI redesign, and a new C# Web API.
-- **Rashun** — Open-source AI usage platform: native macOS app, cross-platform CLI, analytics, and multi-device sync.
-- Building toward full-time software engineering roles from **Nov 2026**.
-
-### Previously
-
-- **Autohive** — AI Agent Developer (Nov 2025 – Feb 2026). Shipped 10+ marketplace AI agents and customer-facing integrations (Facebook, Instagram, Xero, and more) on a production C#/.NET platform.
-- **External Reporting Board (XRB)** — Website Administrator. Day-to-day CMS operations and support for the 2022 public website redesign.
-
----
-
 ### Languages and Tools
 
 <p>
@@ -43,11 +30,3 @@ I care about shipping reliable software people actually use — clean architectu
 </p>
 
 <br clear="left"/>
-
----
-
-### Featured work
-
-- **[Rashun](https://github.com/AlexanderHeffernan/Rashun)** — Open-source AI usage platform (macOS app + cross-platform CLI)
-- **[Node Race](https://github.com/Team-GitGud/node-race)** — Real-time multiplayer game for learning tree traversals
-- More on **[alexheffernan.dev](https://alexheffernan.dev)**
