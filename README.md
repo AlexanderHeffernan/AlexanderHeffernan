@@ -6,7 +6,7 @@ Product-minded software engineer with production experience across full-stack .N
 
 I care about shipping reliable software people actually use — clean architecture, thoughtful interfaces, and using AI deliberately without giving up engineering judgement.
 
-🌐 [alexheffernan.dev](https://alexheffernan.dev) · 💼 [LinkedIn](https://linkedin.com/in/alexander-heffernan) · 🐦 [X](https://x.com/AlexH2035)
+[alexheffernan.dev](https://alexheffernan.dev) · [LinkedIn](https://linkedin.com/in/alexander-heffernan) · [X](https://x.com/AlexH2035)
 
 ---
 
